@@ -2,17 +2,17 @@ Variavel,Sigla,WoS,Scopus,Merged
 Período (ano inicial),Years_start,2007,1977,1977
 Período (ano final),Years_end,2024,2025,2025
 Total de Documentos,GTP,564,689,1168
-Total de Autores,GTA,950,987,1833
+Total de Autores,GTA,950,985,1833
 Total de Citações,GTC,1405,2462,3329
-Documentos Single-authored,TP1,184,267,405
+Documentos Single-authored,TP1,184,264,405
 Documentos Multi-authored,TPm,380,422,760
-Autores de documentos single-authored,TA1,153,207,329
+Autores de documentos single-authored,TA1,153,205,329
 Autores de documentos multi-authored,TAm,829,823,1578
-Aparições de autor,TAapp,1172,1356,2378
+Aparições de autor,TAapp,1172,1353,2378
 Média de documentos por ano,ADy,31.333333333333332,22.966666666666665,38.93333333333333
-Média de documentos por autor,ADa,0.5936842105263158,0.6980749746707193,0.6372067648663393
-Autores por documento,AAd,1.6843971631205674,1.432510885341074,1.5693493150684932
-Co-autores por documento,ACAd,2.078014184397163,1.9680696661828738,2.035958904109589
+Média de documentos por autor,ADa,0.5936842105263158,0.6994923857868021,0.6372067648663393
+Autores por documento,AAd,1.6843971631205674,1.4296081277213353,1.5693493150684932
+Co-autores por documento,ACAd,2.078014184397163,1.9637155297532656,2.035958904109589
 Índice de colaboração,CI,2.6,2.580568720379147,2.596052631578947
 Citações por documento,ACd,2.4911347517730498,3.5732946298984034,2.850171232876712
 h-index da coleção,h_collection,15,19,20

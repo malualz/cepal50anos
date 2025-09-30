@@ -555,4 +555,5 @@ ggplot(df_yearly_all, aes(x = PY, y = Docs, color = Source)) +
     legend.position = "top",
     panel.grid.minor = element_blank()
   )
-
+daily_git
+end_day()
